@@ -1,5 +1,5 @@
 function myFunz () {
 	'use strict';
-	console.log("hello");
+	console.log('hello');
 }
 myFunz();
