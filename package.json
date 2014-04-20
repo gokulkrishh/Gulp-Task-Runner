@@ -24,6 +24,7 @@
     "gulp": "*",
     "gulp-jshint": "*",
     "jshint-stylish": "*",
-    "gulp-uglify": "*"
+    "gulp-uglify": "*",
+    "gulp-concat": "*"
   }
 }
