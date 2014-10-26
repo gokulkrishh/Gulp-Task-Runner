@@ -1,30 +1,16 @@
 {
   "name": "Gulp-Task-Runner",
-  "version": "0.0.1",
-  "description": "Gulp-Task-Runner\r ================",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm install"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gokulkrishh/Gulp-Task-Runner"
-  },
-  "keywords": [
-    "Task",
-    "Runner"
-  ],
-  "author": "gokulkrishh",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/gokulkrishh/Gulp-Task-Runner/issues"
-  },
-  "homepage": "https://github.com/gokulkrishh/Gulp-Task-Runner",
+  "version": "0.0.0",
   "devDependencies": {
     "gulp": "*",
     "gulp-jshint": "*",
     "jshint-stylish": "*",
     "gulp-uglify": "*",
-    "gulp-concat": "*"
-  }
+    "gulp-concat": "*",
+    "gulp-minify-css": "*",
+    "gulp-watch": "^0.6.9",
+    "gulp-webserver": "^0.6.0"
+  },
+  "author": "gokulkrishh",
+  "license": "BSD-2-Clause",
 }
